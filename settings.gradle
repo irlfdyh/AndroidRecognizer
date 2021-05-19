@@ -1,0 +1,3 @@
+rootProject.name = "RecognizerLibs"
+include ':app'
+include ':recognizer'
